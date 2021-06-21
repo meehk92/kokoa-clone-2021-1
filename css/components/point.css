@@ -1,0 +1,17 @@
+.nav__point {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  left: 30px;
+}
+.header__point {
+  background-color: tomato;
+  width: 6px;
+  height: 6px;
+  border-radius: 3px;
+  position: absolute;
+  top: -10px;
+  right: -8px;
+}
